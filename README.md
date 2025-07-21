@@ -2,15 +2,15 @@
 
 A lightweight notebook project that predicts students’ **Math, Reading, and Writing** scores using simple linear‑regression models built with Keras/TensorFlow.
 
----
+
 
 ## 📁 Project structure
-├── StudentsPerformance.ipynb # Main notebook (EDA → models → predictions)
-├── StudentsPerformance.csv # Raw dataset (1 000 rows × 8 columns)
-├── requirements.txt # Python dependencies
 
+├── StudentsPerformance.ipynb   # Main notebook (EDA → models → predictions)
+├── StudentsPerformance.csv     # Raw dataset (1 000 rows × 8 columns)
+├── requirements.txt            # Python dependencies
+└── LICENSE                     # MIT License text
 
----
 
 ## 🔍 What’s inside?
 
