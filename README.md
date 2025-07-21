@@ -11,7 +11,7 @@ A lightweight notebook project that predicts students’ **Math, Reading, and Wr
 ├── StudentsPerformance.csv     # Raw dataset (1 000 rows × 8 columns)
 ├── requirements.txt            # Python dependencies
 ├── LICENSE                     # MIT License text
-└── README.md                   # You’re reading itit
+└── README.md                   # You’re reading it.
 
 ```
 
