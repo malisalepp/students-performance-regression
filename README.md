@@ -5,11 +5,15 @@ A lightweight notebook project that predicts students’ **Math, Reading, and Wr
 ---
 
 ## 📁 Project structure
-StudentsPerformance.ipynb   # Main notebook (EDA → models → predictions)
-StudentsPerformance.csv     # Raw dataset (1 000 rows × 8 columns)
-requirements.txt            # Python dependencies
-LICENSE                     # MIT License text
-README.md                   # You’re reading it
+
+```text
+├── StudentsPerformance.ipynb   # Main notebook (EDA → models → predictions)
+├── StudentsPerformance.csv     # Raw dataset (1 000 rows × 8 columns)
+├── requirements.txt            # Python dependencies
+├── LICENSE                     # MIT License text
+└── README.md                   # You’re reading itit
+
+```
 
 🔍 What’s inside?
 | Section                              | Key points                                                                                                                                                             |
